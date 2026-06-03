@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hai 👋, Saya Dhika Roid Hakim ⚡</h1>
+<h1 align="center">Hai, Saya Dhika Roid Hakim </h1>
 <h3 align="center">Fullstack Developer dari Indonesia 🇮🇩</h3>
 
 ---
