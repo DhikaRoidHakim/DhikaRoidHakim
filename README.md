@@ -61,4 +61,4 @@ Flutter, Laravel, Python, JavaScript, atau urusan menyambungkan dua sistem yang 
 
 ---
 
-> Worrying means you suffer twice. — Newt Scamander
+> Ties are'nt forgotten, they're severed. — Chrollo Lucilfer
