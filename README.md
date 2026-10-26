@@ -1,6 +1,6 @@
 # Dhika Roid Hakim
 
-Fullstack developer di PT BPR Bangunarta. Sehari-hari saya mengerjakan aplikasi mobile dengan Flutter, backend dengan Laravel atau Python, dan cukup banyak pekerjaan integrasi sistem: menyambungkan API, sinkronisasi data antar aplikasi, dan hal-hal di belakang layar yang jarang terlihat tapi bikin semuanya jalan.
+Fullstack developer di sebuah BPR di Indonesia. Sehari-hari saya mengerjakan aplikasi mobile dengan Flutter, backend dengan Laravel atau Python, dan cukup banyak pekerjaan integrasi sistem: menyambungkan API, sinkronisasi data antar aplikasi, dan hal-hal di belakang layar yang jarang terlihat tapi bikin semuanya jalan.
 
 Di luar itu, saya suka ngoprek machine learning dan computer vision, dan sesekali main Arduino kalau lagi pengin pegang hardware.
 
@@ -19,15 +19,9 @@ Di luar itu, saya suka ngoprek machine learning dan computer vision, dan sesekal
 
 **Eksperimen ML** — Proyek sampingan dengan PyTorch, TensorFlow, scikit-learn, dan OpenCV, kebanyakan seputar klasifikasi gambar dan analisis data dengan pandas.
 
-## Yang sedang saya kerjakan
+## Ajak saya ngobrol soal
 
-| Project | Tentang | Stack |
-|---|---|---|
-| **Simbo** | Simpanan Bangunarta Online. Aplikasi bagi nasabah untuk mengelola simpanan secara online. Saya mengerjakan aplikasi mobile sekaligus API di belakangnya. | Flutter, Laravel |
-| **Bangunarta One** | Aplikasi internal untuk kebutuhan operasional karyawan Bangunarta. | Flutter |
-| **FWBS** | Fun Walk Bangunarta Sehat. Landing page acara sekaligus sistem pembelian tiket untuk pesertanya. | Laravel |
-
-<sub>Semua project di atas dikerjakan untuk PT BPR Bangunarta, jadi repositorinya tidak publik.</sub>
+Flutter, Laravel, Python, JavaScript, atau urusan menyambungkan dua sistem yang awalnya tidak dirancang untuk saling bicara. Kalau kamu sedang mentok di salah satunya, atau punya ide project yang mau didiskusikan, kirim saja email ke **itsro.work@gmail.com**.
 
 ## Stack
 
