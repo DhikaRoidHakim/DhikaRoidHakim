@@ -40,10 +40,14 @@ Di luar itu, saya suka ngoprek machine learning dan computer vision, dan sesekal
 
 ## Aktivitas GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhikaroidhakim&show_icons=true&hide_border=true&hide_title=false" alt="GitHub stats"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dhikaroidhakim&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0D1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhikaroidhakim&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikaroidhakim&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikaroidhakim&layout=compact&hide_border=true" alt="Bahasa yang sering dipakai"/>
-</p>
+</picture>
 
 ## Jejak kontribusi
 
@@ -53,15 +57,12 @@ Di luar itu, saya suka ngoprek machine learning dan computer vision, dan sesekal
 </picture>
 
 <details>
-<summary><b>Lihat grafik aktivitas 30 hari terakhir</b></summary>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhikaroidhakim&hide_border=true&area=true" alt="Grafik aktivitas GitHub"/>
-</details>
-
-<details>
 <summary><b>Lihat streak kontribusi</b></summary>
 <br/>
-<img src="https://streak-stats.demolab.com/?user=dhikaroidhakim&hide_border=true" alt="Streak kontribusi"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dhikaroidhakim&hide_border=true&theme=github-dark-blue&background=0D1117"/>
+  <img src="https://streak-stats.demolab.com/?user=dhikaroidhakim&hide_border=true" alt="Streak kontribusi"/>
+</picture>
 </details>
 
 ---
