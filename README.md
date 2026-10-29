@@ -11,13 +11,13 @@ Di luar itu, saya suka ngoprek machine learning dan computer vision, dan sesekal
 
 ## Apa yang biasa saya kerjakan
 
-**Mobile** — Aplikasi Flutter dari nol sampai rilis: state management, konsumsi REST API, mode offline, dan publikasi ke Play Store.
+**Mobile** - Aplikasi Flutter dari nol sampai rilis: state management, konsumsi REST API, mode offline, dan publikasi ke Play Store.
 
-**Backend** — REST API dengan Laravel, Django, atau Flask. Biasanya berpasangan dengan MySQL dan di-deploy di belakang Nginx.
+**Backend** - REST API dengan Laravel, Django, atau Flask. Biasanya berpasangan dengan MySQL dan di-deploy di belakang Nginx.
 
-**Integrasi sistem** — Bagian yang paling sering saya pegang belakangan ini. Menghubungkan aplikasi baru dengan sistem lama, menulis job sinkronisasi data, dan memastikan dua sistem yang dibuat terpisah bisa "ngobrol" dengan benar.
+**Integrasi sistem** - Bagian yang paling sering saya pegang belakangan ini. Menghubungkan aplikasi baru dengan sistem lama, menulis job sinkronisasi data, dan memastikan dua sistem yang dibuat terpisah bisa "ngobrol" dengan benar.
 
-**Eksperimen ML** — Proyek sampingan dengan PyTorch, TensorFlow, scikit-learn, dan OpenCV, kebanyakan seputar klasifikasi gambar dan analisis data dengan pandas.
+**Eksperimen ML** - Proyek sampingan dengan PyTorch, TensorFlow, scikit-learn, dan OpenCV, kebanyakan seputar klasifikasi gambar dan analisis data dengan pandas.
 
 ## Ajak saya ngobrol soal
 
@@ -32,12 +32,8 @@ Flutter, Laravel, Python, JavaScript, atau urusan menyambungkan dua sistem yang 
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,git,nginx,cpp,arduino&perline=10" alt="ML dan tools"/>
 </p>
 
-## Aktivitas GitHub
+## Bahasa yang sering dipakai
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dhikaroidhakim&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhikaroidhakim&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikaroidhakim&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikaroidhakim&layout=compact&hide_border=true" alt="Bahasa yang sering dipakai"/>
@@ -61,4 +57,4 @@ Flutter, Laravel, Python, JavaScript, atau urusan menyambungkan dua sistem yang 
 
 ---
 
-> Ties are'nt forgotten, they're severed. — Chrollo Lucilfer
+> Ties Aren't not forgotten, They're severed. - Chrollo Lucilfer
